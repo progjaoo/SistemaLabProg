@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SistemaLabProg.Model.Models.TipoProduto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TipCodigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipDescricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipDestivado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipCodigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipDescricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipDestivado)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.TipCodigo}) |
+                @Html.ActionLink("Details", "Details", new { id=item.TipCodigo}) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.TipCodigo})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

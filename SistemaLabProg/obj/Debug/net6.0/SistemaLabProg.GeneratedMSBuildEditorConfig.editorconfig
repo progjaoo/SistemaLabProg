@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SistemaLabProg
+build_property.RootNamespace = SistemaLabProg
+build_property.ProjectDir = I:\Meu Drive\FACULDADE\FACULDADE SISTEMAS\5° Período\3 - LABORATÓRIO DE PROGRAMAÇÃO II\SistemaLabProg\SistemaLabProg\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = I:\Meu Drive\FACULDADE\FACULDADE SISTEMAS\5° Período\3 - LABORATÓRIO DE PROGRAMAÇÃO II\SistemaLabProg\SistemaLabProg
+build_property._RazorSourceGeneratorDebug = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Descricao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpY2FvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Descricao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpY2FvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Descricao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpY2FvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Descricao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpY2FvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Descricao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY3JpY2FvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Produto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoPagamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ2FtZW50b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoPagamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ2FtZW50b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoPagamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ2FtZW50b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoPagamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ2FtZW50b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoPagamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ2FtZW50b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoProduto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1dG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoProduto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1dG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoProduto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1dG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoProduto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1dG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/TipoProduto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1dG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Meu Drive/FACULDADE/FACULDADE SISTEMAS/5° Período/3 - LABORATÓRIO DE PROGRAMAÇÃO II/SistemaLabProg/SistemaLabProg/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3xelljk989
